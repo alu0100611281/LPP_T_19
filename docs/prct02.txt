@@ -1,1 +1,15 @@
 Trabajo en equipo con git
+
+Practica 2:
+49)¿Cual es la diferencia entre compilacion e interpretacion?
+	La diferencia recide en que , en un lenguaje compilado para poder ser ejecutado en un ordenador , el codigo del programa debe ser transformado en un codigo mas sencillo de interpretar para un ordenador y el lenguaje interpretado el programa se lee y se ejecuta tal cual sin ningun cambio.
+
+56. ¿Cual es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+	
+	La diferencia es que en el fichero .sh hay una linea que indica el interprete que vamos a utilizar, indicando tambien que es leguaje bash y en .rb no lo indica .
+
+¿Que significado tiene la primera lınea del fichero helloWorld.sh?
+
+	Indica que interprete se va a usar.
+
+
