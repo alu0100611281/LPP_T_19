@@ -1,1 +1,6 @@
 Trabajo en equipo con git
+
+Practica 2:
+49)¿Cual es la diferencia entre compilacion e interpretacion?
+	La diferencia recide en que , en un lenguaje compilado para poder ser ejecutado en un ordenador , el codigo del programa debe ser transformado en un codigo mas sencillo de interpretar para un ordenador y el lenguaje interpretado el programa se lee y se ejecuta tal cual sin ningun cambio.
+
